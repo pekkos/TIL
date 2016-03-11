@@ -1,0 +1,2 @@
+npm WARN deprecated lodash@1.0.2: lodash@<3.0.0 is no longer maintained. Upgrade to lodash@^4.0.0:
+npm i --save lodash
