@@ -1,6 +1,6 @@
 # initial-letter for drop caps
 
-Drop caps can be made using a combination of initial-letter property and the ::first-letter pseudo element.
+Drop caps can be made using a combination of the initial-letter property and the ::first-letter pseudo element.
 
 A [tutorial here](http://webdesign.tutsplus.com/tutorials/better-css-drop-caps-with-initial-letter--cms-26350).
 
