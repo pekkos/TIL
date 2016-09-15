@@ -1,4 +1,4 @@
-# download (attr)
+# &lt;a download&gt;
 
 Make a link downloadable. You can even provide a filename.
 ```
