@@ -2,7 +2,8 @@
 If a user preferes reduced motion in MacOS/iOS, use this trick to calculate the duration with motion on or off:
 
 [Source](https://twitter.com/steveg3003/status/888500276847562752)
-[More on reduced motino media query](https://css-tricks.com/introduction-reduced-motion-media-query/)
+
+[More on reduced motion media query](https://css-tricks.com/introduction-reduced-motion-media-query/)
 
 Markup:
 
