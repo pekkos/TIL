@@ -1,7 +1,7 @@
 # Reduced motion preference
 If a user preferes reduced motion in MacOS/iOS, use this trick to calculate the duration with motion on or off:
 
-[](https://twitter.com/steveg3003/status/888500276847562752)
+[Source](https://twitter.com/steveg3003/status/888500276847562752)
 
 Markup:
 
