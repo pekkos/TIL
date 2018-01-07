@@ -17,11 +17,11 @@ Also a sibling property:
 
 Found [a note](https://github.com/openstyles/stylus/issues/229) about that here:
 
-*Chrome 57 introduced text-decoration-skip: ink to skip glyph descenders for text-decoration: underline.
-CSS committee decided to use a separate property text-decoration-skip-ink: auto.
-Chrome 64 removed the old property entirely and enabled the new one by default.
+*Chrome 57 introduced text-decoration-skip: ink to skip glyph descenders for text-decoration: underline.*
+*CSS committee decided to use a separate property text-decoration-skip-ink: auto.
+Chrome 64 removed the old property entirely and enabled the new one by default.*
 
-This is Chrome-specific as Firefox hasn't yet implemented ink skipping.
+*This is Chrome-specific as Firefox hasn't yet implemented ink skipping.
 I think we should revisit this issue in a year or so (November 2018) and probably remove text-decoration-skip: ink from our pages.*
 
 ```
