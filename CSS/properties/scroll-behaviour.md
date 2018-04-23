@@ -4,7 +4,7 @@ Use the CSS property scroll-behavior to create smooth transitions when scrolling
 
 [Can I use it?](https://caniuse.com/#search=scroll-behavior)
 
-See it in acitn in [this CodePen](https://codepen.io/askd/full/WdXOYW)
+See it in action in [this CodePen](https://codepen.io/askd/full/WdXOYW)
 
 ```
 html {
