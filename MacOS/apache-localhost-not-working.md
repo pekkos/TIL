@@ -7,4 +7,4 @@ sudo mkdir /var/log/apache2 && sudo chown root:wheel /var/log/apache2
 ```
 
 
-[More tricks](https://apple.stackexchange.com/questions/351031/i-can-t-connect-to-localhost-on-mac-high-sierra]
+[More tricks](https://apple.stackexchange.com/questions/351031/i-can-t-connect-to-localhost-on-mac-high-sierra)
