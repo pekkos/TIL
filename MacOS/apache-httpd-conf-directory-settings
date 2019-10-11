@@ -6,7 +6,7 @@ try changing the directory settings in http.conf
 I ran into this problem after updating to MacOS Catalina.
 
 
-```
+```bash
 <Directory />
     #Options FollowSymLinks
     Options Indexes FollowSymLinks Includes ExecCGI
